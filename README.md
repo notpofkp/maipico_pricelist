@@ -1,5 +1,5 @@
 # maipico_pricelist
-An australian pricing list on my personal build of MaiPico, by whowechina.
+An australian pricing list on my personal build of [MaiPico, by whowechina.](https://github.com/whowechina/mai_pico)
 
 
 # Individual Costs
